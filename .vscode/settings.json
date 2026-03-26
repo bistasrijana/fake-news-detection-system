@@ -1,0 +1,10 @@
+{
+    
+  "files.exclude": {
+    "**/venv": true,
+    "**/han_checkpoints": true,
+    "**/.vscode": true
+  }
+
+
+}
