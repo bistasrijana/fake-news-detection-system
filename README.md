@@ -17,9 +17,3 @@ This project is a machine learning system that detects whether a news article is
 Dataset
 Contains real and fake news datasets (CSV files)
 Data preprocessing handled with Python
-
----
-
- How to Run
-requirements.txt
-git clone https://github.com/bistasrijana/fake-news-detection.git
