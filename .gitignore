@@ -1,5 +1,8 @@
-venv/
 __pycache__/
 *.pyc
-*.sqlite3
-*.ipynb_checkpoints
+venv/
+datasets/
+*.csv
+*.pkl
+*.h5
+.DS_Store
